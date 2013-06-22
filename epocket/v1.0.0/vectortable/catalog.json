@@ -2,136 +2,151 @@
     "items": [
         {
             "action": {
-                "iid": 327, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 327, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u5168\u90e8\u91cf\u8868"
         }, 
         {
             "action": {
-                "iid": 242, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 242, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u5fc3\u8840\u7ba1\u7cfb\u7edf"
         }, 
         {
             "action": {
-                "iid": 243, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 243, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u547c\u5438\u7cfb\u7edf"
         }, 
         {
             "action": {
-                "iid": 244, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 244, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u6d88\u5316\u7cfb\u7edf"
         }, 
         {
             "action": {
-                "iid": 245, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 245, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u80be\u810f\u75c5\u5b66"
         }, 
         {
             "action": {
-                "iid": 246, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 246, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u8840\u6db2\u79d1"
         }, 
         {
             "action": {
-                "iid": 247, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 247, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u5185\u5206\u6ccc\u79d1"
         }, 
         {
             "action": {
-                "iid": 248, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 248, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u98ce\u6e7f\u514d\u75ab\u79d1"
         }, 
         {
             "action": {
-                "iid": 249, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 249, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u5916\u79d1"
         }, 
         {
             "action": {
-                "iid": 350, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 350, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u5987\u4ea7\u79d1"
         }, 
         {
             "action": {
-                "iid": 250, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 250, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u513f\u79d1"
         }, 
         {
             "action": {
-                "iid": 251, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 251, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u795e\u7ecf\u79d1"
         }, 
         {
             "action": {
-                "iid": 252, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 252, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u91cd\u75c7\u533b\u5b66"
         }, 
         {
             "action": {
-                "iid": 253, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 253, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u9ebb\u9189\u79d1"
         }, 
         {
             "action": {
-                "iid": 435, 
-                "pid": 4, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 435, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 4, 
+                "url": "product"
             }, 
             "title": "\u6025\u8bca\u79d1"
         }

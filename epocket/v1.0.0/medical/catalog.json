@@ -2,19 +2,21 @@
     "items": [
         {
             "action": {
-                "iid": 15, 
-                "pid": 5, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 15, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 5, 
+                "url": "product"
             }, 
             "title": "\u897f\u836f"
         }, 
         {
             "action": {
-                "iid": 16, 
-                "pid": 5, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 16, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 5, 
+                "url": "product"
             }, 
             "title": "\u4e2d\u6210\u836f"
         }

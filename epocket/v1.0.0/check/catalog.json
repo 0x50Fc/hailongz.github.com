@@ -2,10 +2,11 @@
     "items": [
         {
             "action": {
-                "iid": 312, 
-                "pid": 3, 
-                "skey": "ProductList", 
-                "view": "ProductListView"
+                "dirID": 312, 
+                "m": "downloadProductItemDetail", 
+                "name": "url", 
+                "pdiId": 3, 
+                "url": "product"
             }, 
             "title": "\u5e38\u7528\u5316\u9a8c\u53ca\u68c0\u9a8c\u624b\u518c"
         }

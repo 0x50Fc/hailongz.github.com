@@ -33,7 +33,7 @@ def genCatalog(pdiId,to):
             
                 i["title"] = li["dirname"]
             
-                i["action"] = {"skey": "ProductList","pid":li["productid"] ,"iid":li["id"], "view":"ProductListView"}
+                i["action"] = {"name":"url","url":"product","m": "downloadProductItemDetail","dirID":li["id"],"pdiId":li["productid"]}
             
                 lis.append(i)
             
@@ -41,7 +41,7 @@ def genCatalog(pdiId,to):
         
         else:
         
-            d["action"] = {"skey": "ProductList","pid":item["productid"] ,"iid":item["id"], "view":"ProductListView"}
+            d["action"] = {"name":"url","url":"product","m": "downloadProductItemDetail","dirID":item["id"],"pdiId":item["productid"]}
         
         items.append(d)
 
