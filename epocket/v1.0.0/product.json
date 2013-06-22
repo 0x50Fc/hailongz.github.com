@@ -1,53 +1,51 @@
 
 {
-    "view":"TreeView",
     "items":[
         {
              "title":"临床指南",
              "desc":"临床指南",
              "action":{
-                "url":"guide/catalog.json",
-                "view":"TreeView"
+                "name":"url",
+                "url":"tree?uri=guide/catalog.json"
              }
         },
         {
              "title":"药典",
              "desc":"药典",
              "action":{
-                "url":"medical/catalog.json",
-                "view":"TreeView"
+                "name":"url",
+                "url":"tree?uri=medical/catalog.json"
              }
         },
         {
              "title":"检验手册",
              "desc":"检验手册",
              "action":{
-                "url":"check/catalog.json",
-                "view":"TreeView"
+                "name":"url",
+                "url":"tree?uri=check/catalog.json"
              }
         },
         {
              "title":"医学量表",
              "desc":"医学量表",
              "action":{
-                "url":"vectortable/catalog.json",
-                "view":"TreeView"
+                "name":"url",
+                "url":"tree?uri=vectortable/catalog.json"
              }
         },
         {
              "title":"计算工具",
              "desc":"计算工具",
              "action":{
-                "url":"caculator/catalog.json",
-                "view":"TreeView"
+                "name":"url",
+                "url":"tree?uri=caculator/catalog.json"
              }
         },
         {
              "title":"收藏",
              "desc":"收藏",
              "action":{
-                "skey":"Favorite",
-                "view":"FavoriteView"
+                "name":"Favorite"
              }
         }
     ]
