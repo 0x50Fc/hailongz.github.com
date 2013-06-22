@@ -1,0 +1,376 @@
+{
+    "items": [
+        {
+            "action": {
+                "iid": 479, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u7cd6\u76ae\u8d28\u6fc0\u7d20\u5e94\u7528"
+        }, 
+        {
+            "action": {
+                "iid": 352, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u5185\u79d1\u8bca\u7597\u624b\u518c"
+        }, 
+        {
+            "action": {
+                "iid": 346, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "NCCN\u6307\u5357"
+        }, 
+        {
+            "items": [
+                {
+                    "action": {
+                        "iid": 329, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u5fc3\u5185\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 330, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u547c\u5438\u5185\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 331, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u6d88\u5316\u5185\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 436, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u80be\u5185\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 332, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u611f\u67d3\u5185\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 333, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u8840\u6db2\u5185\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 334, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u5185\u5206\u6ccc\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 431, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u98ce\u6e7f\u514d\u75ab\u79d1"
+                }
+            ], 
+            "title": "\u5185\u79d1"
+        }, 
+        {
+            "items": [
+                {
+                    "action": {
+                        "iid": 338, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u666e\u901a\u5916\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 337, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u9aa8\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 336, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u6ccc\u5c3f\u5916\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 341, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u795e\u7ecf\u5916\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 339, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u809d\u810f\u5916\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 340, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u8840\u7ba1\u5916\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 464, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u6574\u5f62\u5916\u79d1"
+                }
+            ], 
+            "title": "\u5916\u79d1"
+        }, 
+        {
+            "items": [
+                {
+                    "action": {
+                        "iid": 344, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u5987\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 345, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u4ea7\u79d1"
+                }
+            ], 
+            "title": "\u5987\u4ea7\u79d1"
+        }, 
+        {
+            "items": [
+                {
+                    "action": {
+                        "iid": 462, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u65b0\u751f\u513f"
+                }, 
+                {
+                    "action": {
+                        "iid": 487, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u5fc3\u8840\u7ba1"
+                }, 
+                {
+                    "action": {
+                        "iid": 488, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u547c\u5438"
+                }, 
+                {
+                    "action": {
+                        "iid": 489, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u6d88\u5316\u79d1"
+                }, 
+                {
+                    "action": {
+                        "iid": 351, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u80be\u810f\u75c5"
+                }, 
+                {
+                    "action": {
+                        "iid": 490, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u8840\u6db2"
+                }, 
+                {
+                    "action": {
+                        "iid": 348, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u5185\u5206\u6ccc"
+                }, 
+                {
+                    "action": {
+                        "iid": 491, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u514d\u75ab"
+                }, 
+                {
+                    "action": {
+                        "iid": 492, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u795e\u7ecf"
+                }, 
+                {
+                    "action": {
+                        "iid": 493, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u8033\u9f3b\u5589"
+                }, 
+                {
+                    "action": {
+                        "iid": 438, 
+                        "pid": 6, 
+                        "skey": "ProductList", 
+                        "view": "ProductListView"
+                    }, 
+                    "title": "\u513f\u79d1\u6025\u8bca"
+                }
+            ], 
+            "title": "\u513f\u79d1"
+        }, 
+        {
+            "action": {
+                "iid": 343, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u795e\u7ecf\u79d1"
+        }, 
+        {
+            "action": {
+                "iid": 472, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u9ebb\u9189\u79d1"
+        }, 
+        {
+            "action": {
+                "iid": 433, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u6025\u8bca\u79d1"
+        }, 
+        {
+            "action": {
+                "iid": 473, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u91cd\u75c7\u533b\u5b66\u79d1"
+        }, 
+        {
+            "action": {
+                "iid": 474, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u773c\u79d1"
+        }, 
+        {
+            "action": {
+                "iid": 475, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u8033\u9f3b\u5589\u79d1"
+        }, 
+        {
+            "action": {
+                "iid": 476, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u53e3\u8154\u79d1"
+        }, 
+        {
+            "action": {
+                "iid": 477, 
+                "pid": 6, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u76ae\u80a4\u79d1"
+        }
+    ], 
+    "view": "TreeView"
+}

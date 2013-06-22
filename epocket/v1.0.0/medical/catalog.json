@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "action": {
+                "iid": 15, 
+                "pid": 5, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u897f\u836f"
+        }, 
+        {
+            "action": {
+                "iid": 16, 
+                "pid": 5, 
+                "skey": "ProductList", 
+                "view": "ProductListView"
+            }, 
+            "title": "\u4e2d\u6210\u836f"
+        }
+    ], 
+    "view": "TreeView"
+}
