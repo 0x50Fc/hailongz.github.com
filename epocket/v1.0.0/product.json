@@ -40,13 +40,6 @@
                 "name":"url",
                 "url":"tree?uri=caculator/catalog.json"
              }
-        },
-        {
-             "title":"收藏",
-             "desc":"收藏",
-             "action":{
-                "name":"Favorite"
-             }
         }
     ]
 }
